@@ -43,7 +43,7 @@
   "dependencies": {
     "aws-cdk-lib": "^2.86.0",
     "cdk-golden-signals-dashboard": "^1.0.0",
-    "cdk-nag": "^2.28.27",
+    "cdk-nag": "^2.37.55",
     "constructs": "^10.0.5"
   },
   "license": "MIT-0",
