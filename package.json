@@ -44,7 +44,7 @@
     "aws-cdk-lib": "^2.86.0",
     "cdk-golden-signals-dashboard": "^1.0.0",
     "cdk-nag": "^2.28.27",
-    "constructs": "^10.0.5"
+    "constructs": "^10.4.4"
   },
   "license": "MIT-0",
   "version": "0.0.0",
